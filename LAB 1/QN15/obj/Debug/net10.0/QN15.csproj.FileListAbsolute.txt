@@ -1,0 +1,14 @@
+/Users/romanraut/SEM6/net/LAB 1/QN15/bin/Debug/net10.0/QN15
+/Users/romanraut/SEM6/net/LAB 1/QN15/bin/Debug/net10.0/QN15.deps.json
+/Users/romanraut/SEM6/net/LAB 1/QN15/bin/Debug/net10.0/QN15.runtimeconfig.json
+/Users/romanraut/SEM6/net/LAB 1/QN15/bin/Debug/net10.0/QN15.dll
+/Users/romanraut/SEM6/net/LAB 1/QN15/bin/Debug/net10.0/QN15.pdb
+/Users/romanraut/SEM6/net/LAB 1/QN15/obj/Debug/net10.0/QN15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanraut/SEM6/net/LAB 1/QN15/obj/Debug/net10.0/QN15.AssemblyInfoInputs.cache
+/Users/romanraut/SEM6/net/LAB 1/QN15/obj/Debug/net10.0/QN15.AssemblyInfo.cs
+/Users/romanraut/SEM6/net/LAB 1/QN15/obj/Debug/net10.0/QN15.csproj.CoreCompileInputs.cache
+/Users/romanraut/SEM6/net/LAB 1/QN15/obj/Debug/net10.0/QN15.dll
+/Users/romanraut/SEM6/net/LAB 1/QN15/obj/Debug/net10.0/refint/QN15.dll
+/Users/romanraut/SEM6/net/LAB 1/QN15/obj/Debug/net10.0/QN15.pdb
+/Users/romanraut/SEM6/net/LAB 1/QN15/obj/Debug/net10.0/QN15.genruntimeconfig.cache
+/Users/romanraut/SEM6/net/LAB 1/QN15/obj/Debug/net10.0/ref/QN15.dll

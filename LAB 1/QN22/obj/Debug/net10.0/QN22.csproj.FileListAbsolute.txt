@@ -1,0 +1,14 @@
+/Users/romanraut/SEM6/net/LAB 1/QN22/bin/Debug/net10.0/QN22
+/Users/romanraut/SEM6/net/LAB 1/QN22/bin/Debug/net10.0/QN22.deps.json
+/Users/romanraut/SEM6/net/LAB 1/QN22/bin/Debug/net10.0/QN22.runtimeconfig.json
+/Users/romanraut/SEM6/net/LAB 1/QN22/bin/Debug/net10.0/QN22.dll
+/Users/romanraut/SEM6/net/LAB 1/QN22/bin/Debug/net10.0/QN22.pdb
+/Users/romanraut/SEM6/net/LAB 1/QN22/obj/Debug/net10.0/QN22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanraut/SEM6/net/LAB 1/QN22/obj/Debug/net10.0/QN22.AssemblyInfoInputs.cache
+/Users/romanraut/SEM6/net/LAB 1/QN22/obj/Debug/net10.0/QN22.AssemblyInfo.cs
+/Users/romanraut/SEM6/net/LAB 1/QN22/obj/Debug/net10.0/QN22.csproj.CoreCompileInputs.cache
+/Users/romanraut/SEM6/net/LAB 1/QN22/obj/Debug/net10.0/QN22.dll
+/Users/romanraut/SEM6/net/LAB 1/QN22/obj/Debug/net10.0/refint/QN22.dll
+/Users/romanraut/SEM6/net/LAB 1/QN22/obj/Debug/net10.0/QN22.pdb
+/Users/romanraut/SEM6/net/LAB 1/QN22/obj/Debug/net10.0/QN22.genruntimeconfig.cache
+/Users/romanraut/SEM6/net/LAB 1/QN22/obj/Debug/net10.0/ref/QN22.dll
